@@ -20,7 +20,8 @@ h1 {
     margin-bottom: 0;
 }
 h2 {
-    font-size: 32px;
+    font-color: red;
+  font-size: 32px;
     border-bottom: 1px;
     border-bottom-color: gray;
     margin-bottom: 8px;
